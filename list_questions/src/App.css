@@ -1,0 +1,19 @@
+body {
+  background-color: #F1F1F2;
+}
+
+.wrapper {
+  position: relative;
+  width: 960px;
+  padding: 40px 20px 40px 20px;
+  margin: 10px auto;
+  background-color: #fff;
+  border-radius: 20px;
+  box-shadow: 0 5px 10px #0b0b0c12;
+}
+.listQuestions{
+  padding: 5px 0;
+  width: 500px;
+  text-align: justify;
+ 
+}

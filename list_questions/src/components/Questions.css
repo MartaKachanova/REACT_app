@@ -1,0 +1,23 @@
+button a {
+    color: rgb(247, 246, 250);
+    padding: 10px 10px;
+    text-decoration: none;
+    display: block;
+}
+.status{
+    display: flex;
+    justify-content: space-between; 
+}
+.dropbtn {
+background-color:rgb(74, 70, 70);
+   display: flex;
+    border: none;
+    cursor: pointer;
+   
+}
+.questions{
+    padding: 10px 10px 10px 10px;
+}
+.status{
+    padding: 10px 10px;
+}
